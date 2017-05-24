@@ -20,7 +20,7 @@ public class ItemsActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_items);
+        this.setContentView(R.layout.activity_items);
     }
     /*private RSSFeed feed;
     private FileIO io;
